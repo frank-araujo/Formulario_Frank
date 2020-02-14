@@ -11,6 +11,7 @@ input, textarea{
     height: 24px;
     border: solid 1px rgb(158, 200, 255);
     border-radius: 5px;
+    margin-top: 20px;
 }
 textarea{
     height: auto;
