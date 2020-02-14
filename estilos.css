@@ -2,6 +2,8 @@
 body{
     
     background-image: url(img/Fondo.jpg);
+    background-size: (width="400",
+    height="341");
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
