@@ -33,6 +33,7 @@ input[type=text]:valid,
 textarea:valid,
 input[type=date]:valid{
     background-color: rgb(156, 253, 177);
+    margin-top: 50px;
 }
 input[type=text]:invalid, 
 textarea:invalid,
